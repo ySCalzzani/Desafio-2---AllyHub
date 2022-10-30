@@ -1,3 +1,11 @@
+# About this project
+
+This project was made for the interniship selection process at the company AllyHub. \
+In it, I had to build a simple page with some interactions to acquire the personal registration \
+data of the users and the places that this user would like to visit.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
